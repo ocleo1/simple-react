@@ -1,0 +1,11 @@
+.git
+build
+node_modules
+.DS_Store
+.gitignore
+.env.*
+.dockerignore
+docker-compose.*
+Dockerfile
+LICENSE
+README.md
